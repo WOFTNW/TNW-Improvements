@@ -8,7 +8,7 @@
 
 ```diff
 +v1.0.0 - Wither Skeletons have a 70% chance to drop 0-3 wither roses. Chance increased by 10% per level of Looting.
--v1.2.0 - Minecarts now drop their recipe items instead of their combined item (i.e. hopper and a minecart instead of hopper minecart).
+-v1.2.0 - (VOIDED) Minecarts now drop their recipe items instead of their combined item (i.e. hopper and a minecart instead of hopper minecart).
 +v1.2.0 - Snow blocks drop 8 snow balls (was 4).
 ```
 
