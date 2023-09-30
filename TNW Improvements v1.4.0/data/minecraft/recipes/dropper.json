@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"# #",
+		"#R#"
+	],
+	"key": {
+		"#": {
+			"tag": "woftnw:stones"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:dropper"
+	}
+}
