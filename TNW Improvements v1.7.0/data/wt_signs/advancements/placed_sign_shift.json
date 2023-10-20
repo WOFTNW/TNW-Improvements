@@ -1,0 +1,27 @@
+{
+	"criteria": {
+		"placed_sign": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"player": {
+					"flags": {
+						"is_sneaking": true
+					}
+				},
+				"location": [
+					{
+						"condition": "minecraft:location_check",
+						"predicate": {
+							"block": {
+								"tag": "minecraft:all_signs"
+							}
+						}
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "wt_signs:info"
+	}
+}

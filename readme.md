@@ -39,6 +39,19 @@
 +v1.4.0 - Coral blocks can be crafted into and from 4 coral.
 +v1.4.0 - Coral blocks can be crafted from 8 coral fans.
 +v1.4.0 - Coral can be crafted into and from 2 coral fans.
++v1.6.0 - Amethyst shards can be recrafted from amethyst blocks.
++v1.7.0 - All button recipes give 8 (was 1) buttons.
++v1.7.0 - All pressure plate recipes give 8 (was 1) pressure plates.
+```
+
+</details>
+
+<details>
+
+**<summary>Other</summary>**
+
+```diff
++v1.6.1 - Signs are automatically waxed on placing. This can be circumvented by sneaking.
 ```
 
 </details>
