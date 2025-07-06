@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "bubble_coral",
+	"category": "building",
+	"ingredients": [
+		[
+			"minecraft:bubble_coral_block"
+		]
+	],
+	"result": {
+		"id": "minecraft:bubble_coral",
+		"count": 4
+	}
+}

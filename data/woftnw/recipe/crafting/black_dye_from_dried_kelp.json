@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "black_dye",
+	"category": "misc",
+	"ingredients": [
+		[
+			"minecraft:dried_kelp"
+		]
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:black_dye"
+	}
+}

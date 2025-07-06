@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "tube_coral",
+	"category": "building",
+	"ingredients": [
+		[
+			"minecraft:tube_coral_block"
+		]
+	],
+	"result": {
+		"id": "minecraft:tube_coral",
+		"count": 4
+	}
+}

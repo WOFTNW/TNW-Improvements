@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "brain_coral_block",
+	"category": "building",
+	"ingredients": [
+		[
+			"minecraft:brain_coral_fan"
+		],
+		[
+			"minecraft:brain_coral_fan"
+		],
+		[
+			"minecraft:brain_coral_fan"
+		],
+		[
+			"minecraft:brain_coral_fan"
+		],
+		[
+			"minecraft:brain_coral_fan"
+		],
+		[
+			"minecraft:brain_coral_fan"
+		],
+		[
+			"minecraft:brain_coral_fan"
+		],
+		[
+			"minecraft:brain_coral_fan"
+		]
+	],
+	"result": {
+		"id": "minecraft:brain_coral_block",
+		"count": 1
+	}
+}
