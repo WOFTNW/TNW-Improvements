@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "calcite",
+  "category": "building",
+  "ingredients": [
+    [
+      "minecraft:diorite"
+    ],
+    [
+      "minecraft:amethyst_shard"
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:calcite"
+  }
+}

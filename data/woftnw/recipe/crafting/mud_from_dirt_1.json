@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "mud",
+	"category": "building",
+	"ingredients": [
+		[
+			"minecraft:dirt"
+		],
+		[
+			"minecraft:potion"
+		]
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:mud"
+	}
+}

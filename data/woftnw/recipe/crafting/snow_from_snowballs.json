@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "snow",
+	"category": "building",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": [
+			"minecraft:snowball"
+		]
+	},
+	"result": {
+		"count": 2,
+		"id": "minecraft:snow"
+	}
+}
