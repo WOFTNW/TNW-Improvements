@@ -1,13 +1,11 @@
 {
-	"type": "minecraft:smoking",
-	"group": "purple_dye",
-	"category": "misc",
-	"ingredient": [
-		"minecraft:popped_chorus_fruit"
-	],
-	"result": {
-		"id": "minecraft:purple_dye"
-	},
-	"experience": 0.1,
-	"cookingtime": 100
+    "type": "minecraft:smoking",
+    "group": "purple_dye",
+    "category": "misc",
+    "ingredient": "minecraft:popped_chorus_fruit",
+    "result": {
+        "id": "minecraft:purple_dye"
+    },
+    "experience": 0.1,
+    "cookingtime": 100
 }

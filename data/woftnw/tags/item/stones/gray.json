@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:andesite",
+        "minecraft:chiseled_deepslate",
+        "minecraft:chiseled_stone_bricks",
+        "minecraft:cobbled_deepslate",
+        "minecraft:cobblestone",
+        "minecraft:cracked_deepslate_bricks",
+        "minecraft:cracked_deepslate_tiles",
+        "minecraft:deepslate_bricks",
+        "minecraft:deepslate_tiles",
+        "minecraft:mossy_cobblestone",
+        "minecraft:mossy_stone_bricks",
+        "minecraft:polished_andesite",
+        "minecraft:polished_deepslate",
+        "minecraft:stone_bricks",
+        "minecraft:stone",
+        "minecraft:tuff"
+    ]
+}

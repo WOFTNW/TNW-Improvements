@@ -1,6 +1,12 @@
 {
     "pack": {
-        "pack_format": 7,
+        "pack_format": 88,
+        "supported_formats": {
+            "min_inclusive": 88,
+            "max_inclusive": 88
+        },
+        "min_format": 88,
+        "max_format": 88,
         "description": "Edits to vanilla Minecraft to improve playability on the Wings of Fire: The New World server."
     }
 }

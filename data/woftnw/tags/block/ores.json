@@ -1,15 +1,7 @@
 {
-	"replace": false,
-	"values": [
-		"minecraft:ancient_debris",
-		"minecraft:nether_quartz_ore",
-		"#minecraft:coal_ores",
-		"#minecraft:copper_ores",
-		"#minecraft:diamond_ores",
-		"#minecraft:emerald_ores",
-		"#minecraft:gold_ores",
-		"#minecraft:iron_ores",
-		"#minecraft:lapis_ores",
-		"#minecraft:redstone_ores"
-	]
+    "replace": false,
+    "values": [
+        "#woftnw:ores/nether",
+        "#woftnw:ores/overworld"
+    ]
 }

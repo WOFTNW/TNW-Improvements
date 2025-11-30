@@ -1,16 +1,12 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"group": "wooden_pressure_plate",
-	"pattern": [
-		"##"
-	],
-	"key": {
-		"#": {
-			"item": "minecraft:gold_ingot"
-		}
-	},
-	"result": {
-		"item": "minecraft:light_weighted_pressure_plate",
-		"count": 8
-	}
+    "type": "minecraft:crafting_shaped",
+    "group": "metal_pressure_plate",
+    "pattern": ["##"],
+    "key": {
+        "#": "minecraft:gold_ingot"
+    },
+    "result": {
+        "id": "minecraft:light_weighted_pressure_plate",
+        "count": 8
+    }
 }

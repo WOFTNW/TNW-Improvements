@@ -1,72 +1,17 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"ingredients": [
-		[
-			{
-				"item": "minecraft:snowball"
-			},
-			{
-				"item": "minecraft:snow"
-			}
-		],
-		[
-			{
-				"item": "minecraft:snowball"
-			},
-			{
-				"item": "minecraft:snow"
-			}
-		],
-		[
-			{
-				"item": "minecraft:snowball"
-			},
-			{
-				"item": "minecraft:snow"
-			}
-		],
-		[
-			{
-				"item": "minecraft:snowball"
-			},
-			{
-				"item": "minecraft:snow"
-			}
-		],
-		[
-			{
-				"item": "minecraft:snowball"
-			},
-			{
-				"item": "minecraft:snow"
-			}
-		],
-		[
-			{
-				"item": "minecraft:snowball"
-			},
-			{
-				"item": "minecraft:snow"
-			}
-		],
-		[
-			{
-				"item": "minecraft:snowball"
-			},
-			{
-				"item": "minecraft:snow"
-			}
-		],
-		[
-			{
-				"item": "minecraft:snowball"
-			},
-			{
-				"item": "minecraft:snow"
-			}
-		]
-	],
-	"result": {
-		"item": "minecraft:snow_block"
-	}
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:snowball",
+        "minecraft:snowball",
+        "minecraft:snowball",
+        "minecraft:snowball",
+        "minecraft:snowball",
+        "minecraft:snowball",
+        "minecraft:snowball",
+        "minecraft:snowball"
+    ],
+    "result": {
+        "id": "minecraft:snow_block",
+        "count": 1
+    }
 }
