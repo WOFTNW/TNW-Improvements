@@ -1,25 +1,44 @@
 {
-	"type": "minecraft:crafting_shaped",
-	"pattern": [
-		"TTT",
-		"#X#",
-		"#R#"
-	],
-	"key": {
-		"R": {
-			"item": "minecraft:redstone"
-		},
-		"T": {
-			"tag": "minecraft:planks"
-		},
-		"X": {
-			"item": "minecraft:iron_ingot"
-		},
-		"#": {
-			"tag": "woftnw:stones"
-		}
-	},
-	"result": {
-		"item": "minecraft:piston"
-	}
+    "type": "minecraft:crafting_shaped",
+    "pattern": ["TTT", "#=#", "#R#"],
+    "key": {
+        "R": "minecraft:redstone",
+        "T": [
+            "minecraft:acacia_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:birch_planks",
+            "minecraft:cherry_planks",
+            "minecraft:crimson_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:jungle_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:oak_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:warped_planks"
+        ],
+        "=": "minecraft:iron_ingot",
+        "#": [
+            "minecraft:andesite",
+            "minecraft:chiseled_deepslate",
+            "minecraft:chiseled_stone_bricks",
+            "minecraft:cobbled_deepslate",
+            "minecraft:cobblestone",
+            "minecraft:cracked_deepslate_bricks",
+            "minecraft:cracked_deepslate_tiles",
+            "minecraft:deepslate_bricks",
+            "minecraft:deepslate_tiles",
+            "minecraft:mossy_cobblestone",
+            "minecraft:mossy_stone_bricks",
+            "minecraft:polished_andesite",
+            "minecraft:polished_deepslate",
+            "minecraft:stone_bricks",
+            "minecraft:stone",
+            "minecraft:tuff"
+        ]
+    },
+    "result": {
+        "id": "minecraft:piston",
+        "count": 1
+    }
 }

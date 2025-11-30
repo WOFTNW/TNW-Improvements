@@ -1,13 +1,11 @@
 {
-	"type": "minecraft:campfire_cooking",
-	"group": "leather",
-	"category": "misc",
-	"ingredient": [
-		"minecraft:rotten_flesh"
-	],
-	"result": {
-		"id": "minecraft:leather"
-	},
-	"experience": 0.2,
-	"cookingtime": 600
+    "type": "minecraft:campfire_cooking",
+    "group": "leather",
+    "category": "misc",
+    "ingredient": "minecraft:rotten_flesh",
+    "result": {
+        "id": "minecraft:leather"
+    },
+    "experience": 0.2,
+    "cookingtime": 600
 }

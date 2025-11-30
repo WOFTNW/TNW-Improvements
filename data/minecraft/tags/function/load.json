@@ -1,5 +1,6 @@
 {
-	"values": [
-		"woftnw:load"
-	]
+    "replace": false,
+    "values": [
+        "woftnw:load"
+    ]
 }

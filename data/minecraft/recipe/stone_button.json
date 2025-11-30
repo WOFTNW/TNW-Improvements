@@ -1,13 +1,9 @@
 {
-	"type": "minecraft:crafting_shapeless",
-	"group": "stone_button",
-	"ingredients": [
-		{
-			"item": "minecraft:stone"
-		}
-	],
-	"result": {
-		"item": "minecraft:stone_button",
-		"count": 8
-	}
+    "type": "minecraft:crafting_shapeless",
+    "group": "stone_button",
+    "ingredients": ["minecraft:stone"],
+    "result": {
+        "id": "minecraft:stone_button",
+        "count": 8
+    }
 }
